@@ -1,0 +1,15 @@
+{
+  "name": "csv_helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "normalize": "node ./scripts/normalizer.js",
+    "engagement": "node ./scripts/engagement.js",
+    "email_minutes": "node ./scripts/email_minutes.js",
+    "ranking_email_minutes": "node ./scripts/ranking_email_minutes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
